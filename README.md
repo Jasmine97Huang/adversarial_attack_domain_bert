@@ -218,8 +218,8 @@ related and contiguous are the sentences).
 | BERTweet-base-emotion | 0.75 (F1) 0.83 (Acc.) / 0.59 | 0.45 / 0.1 / 0.51 | 0.62 / 0.09 / 0.53 | 0.7 / 0.07 / 0.52 |
 
 ### Table 5: Examples of Perturbed Sentences (5% limit on perturbation rate)
-![Alt text](/relative/path/to/img.jpg?raw=true "Optional Title")
-
+![Alt text](https://github.com/Jasmine97Huang/adversarial_attack_domain_bert/blob/main/example_attack_1.png)
+![Alt text](https://github.com/Jasmine97Huang/adversarial_attack_domain_bert/blob/main/example_attack_2.png)
 ## Analysis
 We perform our model robustness checks across two rates of word perturbations. In the first case,
 we specify no limit on the word perturbation rate (which indicates the number of words changed
